@@ -1,4 +1,3 @@
-
 ---
 layout: project_template
 title: Music Reactive RGB LED Strip
