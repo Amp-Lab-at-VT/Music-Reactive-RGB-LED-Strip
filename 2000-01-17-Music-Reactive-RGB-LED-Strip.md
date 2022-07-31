@@ -21,7 +21,7 @@ Connor Patrick
 Harsh Sharma
 
 ## Repo Link
-<a class="button is-link" href="https://github.com/Amp-Lab-at-VT/Music-Reactive-RGB-LED-Strip"" >Music-Reactive-RGB-LED-Strip</a>
+<a class="button is-link" href="https://github.com/Amp-Lab-at-VT/Music-Reactive-RGB-LED-Strip" >Music-Reactive-RGB-LED-Strip</a>
 
 ## Photo
 
