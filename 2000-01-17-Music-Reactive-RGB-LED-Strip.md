@@ -4,7 +4,7 @@ title: Music Reactive RGB LED Strip
 description: This project controls a rgb led strip using an arduino based on the frequency of music
 date: 2000-01-17 09:00:00
 hero_image: /web/img/Music-Reactive-RGB-LED-Strip/Hero.png
-image: /web/img/Music-Reactive-RGB-LED-Strip/Hero.png
+# image /web/img/Music-Reactive-RGB-LED-Strip/Hero.png
 hero_height: is-small
 hero_darken: true
 tags: project
