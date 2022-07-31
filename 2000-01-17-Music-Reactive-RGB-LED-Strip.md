@@ -9,8 +9,7 @@ hero_height: is-small
 hero_darken: true
 tags: project
 series: amp_lab_project
-author: Connor Patrick
-Harsh Sharma
+author: Connor Patrick. Harsh Sharma
 show_sidebar: false
 ---
 
